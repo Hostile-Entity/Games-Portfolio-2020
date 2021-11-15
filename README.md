@@ -7,7 +7,7 @@ Unity Project
 
 Folder contains: Full Source code + .exe + Screenshots
 
-## Gold Places 3D
+## Golf Places 3D
 Unity Project
 
 Folder contains: Full Source code + .exe + Screenshots
